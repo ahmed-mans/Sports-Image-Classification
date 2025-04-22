@@ -31,6 +31,7 @@ To train the CNN model effectively, the original training set was divided into t
 - __20%__ for validation.
 
 The image below showcases a few sample classes from the training set, along with the __number of images per class__ indicated in brackets.
+
 ![image](https://github.com/user-attachments/assets/973aa41f-ea67-42ae-95a9-27651a6168d5)<br>
 [Reference](https://www.kaggle.com/competitions/open-cv-tf-project-2-image-classification-round-3/data)
 
