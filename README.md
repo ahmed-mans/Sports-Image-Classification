@@ -34,8 +34,6 @@ The image below showcases a few sample classes from the training set, along with
 ![image](https://github.com/user-attachments/assets/973aa41f-ea67-42ae-95a9-27651a6168d5)<br>
 [Reference](https://www.kaggle.com/competitions/open-cv-tf-project-2-image-classification-round-3/data)
 
-
-
 - 📥 **Dataset Download**:  
   [73 classes sports images dataset](https://www.kaggle.com/competitions/open-cv-tf-project-2-image-classification-round-3/data)
 
@@ -46,9 +44,6 @@ This project features a **fine tuned efficientnetB3 model** tailored for this cl
 
 - The architecture includes consists of the efficienctnetb3 model for which only the last 30 layers of the convolutional base are trainable.<br>
 - The extracted features are then passed through **two fully connected (Dense) layers**, ending with a **final output layer** using `softmax` activation to produce class probabilities across the **73 sports classes**.
-
-📄 **Model Implementation**:  
-[`efficientnetb3_finetuned.py`](efficientnetb3_finetuned.py)
 
 ## ⚙️ Training HyperParameters
 
