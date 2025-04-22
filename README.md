@@ -1,14 +1,18 @@
 # Sports Image classification
 
 ## 🏅 Project Overview
-This project demonstrates how to train a __fine tune a pre-trained model__ to classify sports images into __73 distinct categories__.
+This project demonstrates how to train a __fine tune a pre-trained model__ to classify sports images into __73 distinct categories__ such as :
 
 ```
-0: 20 km/h,  
-1: 30 km/h,  
-2: 50 km/h,  
-...  
-42: End of the overtaking restriction
+swimming,  
+skydiving,  
+speed_skating,
+rugby,
+arm_wrestling,
+rings,
+bowling,
+crikcket,
+etc.
 ```
 ### 🧪 Implementation
 
